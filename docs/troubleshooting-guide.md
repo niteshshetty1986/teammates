@@ -9,7 +9,13 @@
     * [Getting help to resolve test failures](#getting-help-to-resolve-test-failures)
     * [Common test errors and solutions](#common-test-errors-and-solutions)
 
-This document can help you to fix the problems encountered while contributing to TEAMMATES. Failing that, you can [post in the issue tracker](https://github.com/TEAMMATES/teammates/issues/new) to ask for help. Remember to supply as much relevant information as possible when asking for help. e.g. Which operating system are you using.
+This document can help you to fix the problems encountered while contributing to TEAMMATES. Failing that, you can [post in the issue tracker](https://github.com/TEAMMATES/teammates/issues/new) to ask for help. Remember to supply as much relevant information as possible when asking for help, e.g:
+
+1. How the issue originates
+1. Step in the setting up guide that you are in (if you are setting up the project)
+1. What measures you have taken to address the issue
+1. Operating system, JDK version, Eclipse version, Firefox version (where applicable)
+1. Screenshots (if any)
 
 ## Troubleshooting project setup
 
